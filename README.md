@@ -7,10 +7,12 @@
 
 *This project supports Post, Get, Delete, Put API's for Employee model class
 
-'''Skills used : 
+'''
+Skills used : 
 Hibernate (Java)
 Spring Boot
 Java
 OOPs
 MySQL
-JPA'''
+JPA
+'''
